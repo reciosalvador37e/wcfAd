@@ -1,6 +1,6 @@
 # Accesing Active Directory Account Users
 
-One Paragraph of project description goes here
+Through this WCF service you can access the user accounts of the active directory.
 
 ## Getting Started
 
